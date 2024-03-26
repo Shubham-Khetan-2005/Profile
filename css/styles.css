@@ -1,0 +1,102 @@
+div{
+    background-color: #E4F9F5;
+    padding-top: 160px;
+    position: relative;
+    height: 100%;
+}
+
+.skills{
+    padding-top: 30px;
+}
+
+.skill-row{
+    padding-top: 0px;
+}
+
+.middle-container{
+    padding-top: 50px;
+}
+
+.bottom-container{
+    padding-top: 30px;
+}
+
+.achievements{
+    padding-top: 30px;
+    text-align: center;
+}
+
+.contact-me{
+    padding-top: 15px;
+
+}
+
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1{
+    margin: 0 auto;
+    width: 15%;
+    font-size: 40px;
+    font-family: 'Sacramento', cursive;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+}
+p{
+    font-size: 25px;
+}
+
+.bottom-cloud{
+    max-width: 15%;
+    max-height: 15%;
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+
+}
+.top-cloud{
+    max-width: 15%;
+    max-height: 15%;
+    position: absolute;
+    margin-left: 30%;
+    right: 300px;
+    top: 50px;
+}
+
+.mountain{
+    /* min-height: 50%; */
+    /* max-width: 60%; */
+}
+
+.profilePic{
+    height: 30%;
+    width: 30%;
+    border-radius: 50%;
+}
+
+.profile{
+    margin-top: 0;    
+    padding-top: 50px;
+}
+
+.tech-skills{
+    height: 30%;
+    width: 30%;
+    border-radius: 50%;
+}
+
+.soft-skills{
+    padding-top: 30px;
+    height: 15%;
+    width: 15%;
+    border-radius: 50%;
+}
